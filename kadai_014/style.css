@@ -1,13 +1,16 @@
-.google-fonts {
+#google-fonts {
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  font-size: 40;
+  font-size: 2em;
   text-align: center;
   letter-spacing: 1.5em;
   border-bottom: solid 3px rgb(115, 115, 114);
   text-shadow: 3px 3px 3px aqua;
+  font-weight: bold;
+}
+#font-size{
+  font-size: 20px;
 }
 .text-fonts{
   font-family:"Arial", "Meiryo", sans-serif ;
@@ -20,6 +23,6 @@
 .color-pink{
   color: rgb(255, 192, 203) ;
 }
-#text-weight-bold > p{
+#text-weight-bold > p {
   font-weight: bold;
 }
